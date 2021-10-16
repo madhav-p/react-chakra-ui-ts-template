@@ -1,7 +1,8 @@
+import { Heading } from "@chakra-ui/layout";
 import React from "react";
 
 const AuthPage = () => {
-  return <div>Auth Page</div>;
+  return <Heading>Auth Page</Heading>;
 };
 
 export default AuthPage;
